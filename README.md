@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11371379&assignment_repo_type=AssignmentRepo)
 # Project Week 3 To-do list application (Cont.)
 ## Introduction
 As of now, you have completed Project Week 2 and should now have a React Todo List Application that can add and delete unique tasks. For Project Week 3 we will finish up the frontend and make our own unit tests to make sure out App is working properly  We encourage you to take a unique approach to this lab as there is no one right answer. 
